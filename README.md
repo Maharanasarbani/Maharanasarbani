@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm SArbani Maharana</h1>
-<h3 align="center">I am a Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maharanasarbani&label=Profile%20views&color=0e75b6&style=flat" alt="maharanasarbani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maharanasarbani" alt="maharanasarbani" /></a> </p>
 
-- 🔭 I’m currently working on **Face Recognisation**
-
-- 🌱 I’m currently learning **Azure DATA bricks**
+- 🌱 I’m currently learning **Azure DATA Bricks**
 
 - 💬 Ask me about **sql**
 
