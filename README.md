@@ -31,7 +31,6 @@
   </a>
 </p>
 
----
 
 ## 🛠️ Languages and Tools
 <p align="left">
@@ -49,7 +48,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
----
+
 
 ## 📂 Featured Projects
 - [🔗 QR Code Generator](https://github.com/maharanasarbani/QR-Generator) — Create QR codes easily with custom styling using HTML and CSS.
@@ -57,7 +56,7 @@
 - [🔗 Online Resume Builder](https://github.com/maharanasarbani/Online_Resume.Maker) — Build dynamic resumes/CVs with customizable sections.
 - [🔗 Clock Synthesizer](https://github.com/maharanasarbani/clock_synthesizer) — An animated analog clock using HTML, CSS, and JS.
 
----
+
 
 ## 📈 GitHub Stats
 <p align="center">
@@ -65,9 +64,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maharanasarbani&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
----
+
 
 ## 🧠 Fun Fact
 - ✨ I believe **learning never stops** and every line of code is a step towards creating something impactful.
 
----
+
