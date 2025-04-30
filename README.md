@@ -1,5 +1,4 @@
-![68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3135393964373130373031393732352e356639643363376261653633362e676966](https://github.com/user-attachments/assets/e370ab02-cecf-4d38-8322-0ddafea4ca1e)
-
+![1599d7107019725 5f9d3c7bae636-ezgif com-crop](https://github.com/user-attachments/assets/e618b9d2-a499-4072-98a3-8de043876981)
 <h1 align="center">Hi 👋, I'm Sarbani Maharana</h1>
 <h3 align="center">Aspiring Data Engineer | Passionate about Cloud, Databases | Full-Stack Development</h3>
 
